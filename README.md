@@ -27,7 +27,7 @@ A web application designed to assist artists in managing their pain and tracking
 # Installation -
 1. clone the repo
 ```markdown
-git clone https://github.com/awsafur2324/volunteer_Manager_fornt_end.git
+git clone https://github.com/awsafur2324/paintHouse_fornt_end.git
 ```
 2. Now run the file location on the command prompt and install npm
 ```markdown
